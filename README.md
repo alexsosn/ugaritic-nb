@@ -1,2 +1,2 @@
 # ugaritic-nb
-Notebooks related to the Ugaritic course at Uni Helsinki
+Notebooks related to the Ugaritic language course at Helsinki University.
